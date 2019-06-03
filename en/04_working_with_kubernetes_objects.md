@@ -1,4 +1,4 @@
-# Chap04. Working with Kubernetes Objects
+# 04. Working with Kubernetes Objects
 
 ## Pods, Deployments, and Services
 
