@@ -28,3 +28,5 @@
     * helm package
 
 ![deployments-replicasets-and-pods](https://i.imgur.com/UHgZbAA.jpg)
+
+Source: *[Cloud Native DevOps With Kubernetes](https://www.nginx.com/resources/library/cloud-native-devops-with-kubernetes/)*
