@@ -29,4 +29,4 @@
 
 ![deployments-replicasets-and-pods](https://i.imgur.com/UHgZbAA.jpg)
 
-出典： [Kubernetesを使ったCloud Native DevOps](https://www.nginx.com/resources/library/cloud-native-devops-with-kubernetes/)
+出典： [Cloud Native DevOps With Kubernetes](https://www.nginx.com/resources/library/cloud-native-devops-with-kubernetes/)
