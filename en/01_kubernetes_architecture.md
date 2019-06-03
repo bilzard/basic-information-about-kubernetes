@@ -43,3 +43,4 @@
         * usually Docker, but Kubernetes supports other container runtimes such as rkt and CRI-O
 
 ![kubernetes-components](https://i.imgur.com/LC7Uexl.jpg)
+Source: *[Cloud Native DevOps With Kubernetes](https://www.nginx.com/resources/library/cloud-native-devops-with-kubernetes/)*
